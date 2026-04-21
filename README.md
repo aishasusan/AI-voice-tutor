@@ -49,7 +49,7 @@ npx serve .
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 *   **Frontend Framework:** React 19 (TypeScript)
 *   **Styling:** Tailwind CSS (via CDN)
 *   **AI Provider:** Google Gemini API (`@google/genai` SDK)
