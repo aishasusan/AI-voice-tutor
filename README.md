@@ -2,7 +2,7 @@
 
 A research interface designed to study cognitive workload during AI-driven tutoring sessions. It dynamically generates educational content, assesses user comprehension, and allows for voice-based interruptions.
 
-## 🚀 Running Locally
+##  Running Locally
 
 To run this project on your local machine, follow these steps:
 
@@ -58,7 +58,7 @@ npx serve .
 
 ---
 
-## 🧠 Application Architecture
+## Application Architecture
 
 ### 1. Core Services (`services/geminiService.ts`)
 Handles all interactions with the Google Gemini API.
@@ -81,9 +81,9 @@ Decodes raw PCM data from the Gemini TTS model.
 
 ---
 
-## 📝 Configuration
+##  Configuration
 *   **Complexity:** Toggles between Simple (foundational) and Complex (technical) language.
 *   **Pacing:** Toggles playback rate (1.0x vs 1.15x) and script length.
 
-## 🎤 Permissions
+## Permissions
 This app requires **Microphone** access for the interruption/voice-chat feature. Ensure your browser allows microphone permissions for the local origin.
